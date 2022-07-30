@@ -8,7 +8,7 @@
 }
 @font-face {
     font-family: 'calculatorFont';
-    src: url('../json/math2/font/digital-7.ttf');
+    src: url('font/digital-7.ttf');
 }
 body{
     font-size: 4vh !important;
